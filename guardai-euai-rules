@@ -1,0 +1,13 @@
+bash
+
+mkdir -p /home/claude/guardai-euai-rules/rules/article-5
+mkdir -p /home/claude/guardai-euai-rules/rules/annex-iii
+mkdir -p /home/claude/guardai-euai-rules/rules/article-9
+mkdir -p /home/claude/guardai-euai-rules/rules/article-10
+mkdir -p /home/claude/guardai-euai-rules/rules/article-11
+mkdir -p /home/claude/guardai-euai-rules/rules/article-12
+mkdir -p /home/claude/guardai-euai-rules/rules/article-13
+mkdir -p /home/claude/guardai-euai-rules/rules/article-14
+mkdir -p /home/claude/guardai-euai-rules/rules/article-15
+mkdir -p /home/claude/guardai-euai-rules/rules/article-50
+mkdir -p /home/claude/guardai-euai-rules/rules/article-51-53
