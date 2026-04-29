@@ -1,0 +1,33 @@
+guardai-euai-rules/
+├── README.md
+├── LICENSE
+├── CONTRIBUTING.md
+├── schema.json
+└── rules/
+    ├── article-5/          (Prohibited AI practices)
+    │   ├── EUAI-001.yaml   (Subliminal manipulation)
+    │   ├── EUAI-002.yaml   (Vulnerability exploitation)
+    │   ├── EUAI-011.yaml   (Social scoring)
+    │   └── EUAI-012.yaml   (Real-time biometric in public)
+    ├── annex-iii/          (High-risk AI classification)
+    │   ├── EUAI-003.yaml   (Biometric categorization)
+    │   ├── EUAI-004.yaml   (Risk management system - Art.9)
+    │   └── EUAI-005.yaml   (Data governance - Art.10)
+    ├── article-9/          (Risk management)
+    │   └── EUAI-004.yaml
+    ├── article-10/         (Data governance)
+    │   └── EUAI-005.yaml
+    ├── article-11/         (Technical documentation)
+    │   └── EUAI-006.yaml
+    ├── article-12/         (Record keeping)
+    │   └── EUAI-007.yaml
+    ├── article-13/         (Transparency)
+    │   └── EUAI-008.yaml
+    ├── article-14/         (Human oversight)
+    │   └── EUAI-009.yaml
+    ├── article-15/         (Accuracy & robustness)
+    │   └── EUAI-010.yaml
+    ├── article-50/         (GPAI transparency - general purpose AI)
+    │   └── EUAI-013.yaml
+    └── article-51-53/      (GPAI obligations)
+        └── EUAI-014.yaml
